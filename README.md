@@ -97,8 +97,6 @@ Understanding how different room types impact pricing.
 ### 3️⃣ **Seasonal Trends in Availability**  
 Availability of listings fluctuates throughout the year.  
 
-![Seasonal Trends](images/seasonal_trends.png)  
-
 **Observations:**  
 - **Peak seasons** (summer months) show increased availability.  
 - **Winter months** have fewer listings available.  
@@ -108,8 +106,6 @@ Availability of listings fluctuates throughout the year.
 
 ### 4️⃣ **Cancellation Policy vs. Review Scores**  
 How cancellation policies impact customer satisfaction.  
-
-![Cancellation Policy Reviews](images/cancellation_policy_reviews.png)  
 
 **Observations:**  
 - **Flexible policies** tend to have higher review scores.  
